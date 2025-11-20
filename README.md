@@ -8,18 +8,18 @@ I built a complete NLP-powered system that analyzes YouTube comments and recomme
 <br>
 What It Does
 <p>
-✔ Fetches real YouTube comments via API \n
-✔ Performs sentiment analysis using VADER \n
-✔ Converts text to vectors using TF-IDF \n
-✔ Finds related videos using cosine similarity \n
+✔ Fetches real YouTube comments via API 
+✔ Performs sentiment analysis using VADER 
+✔ Converts text to vectors using TF-IDF 
+✔ Finds related videos using cosine similarity 
 </p>
 <br>
 Features
 <p>
-✨ No manual video input needed \n
-✨ Auto-recommends videos \n
-✨ Text-based recommendation (type a topic → get similar videos) \n
-✨  Real-time comment insights \n 
+✨ No manual video input needed 
+✨ Auto-recommends videos 
+✨ Text-based recommendation (type a topic → get similar videos) 
+✨  Real-time comment insights 
 </p>
 <br>
 Tech Stack
